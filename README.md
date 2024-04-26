@@ -27,8 +27,7 @@ A Wireless keystroke injector.
    - Download the reset firmware from [flash_nuke.uf2](https://datasheets.raspberrypi.com/soft/flash_nuke.uf2)
    - While holding the BOOTSEL button on the Pico, plug in the USB cable to your computer.
    - When the RPI-RP2 drive shows up on your computer, copy the flash_nuke.uf2 file to the Pico
-   - After the device reboots, follow the Install instructions [here](https://github.com/Master629/Raspberry-Pi-Pico-W-Web-Server/blob/main/Preparing%20your%20Pico%20and%20computer.md)
-
+   - After the device reboots, follow the Install instructions below
 
 2. **Install CircuitPython:**
 
