@@ -36,7 +36,7 @@ A Wireless keystroke injector.
    - Copy the downloaded (".uf2") file to the root of the Pico (RPI-RP2). The device will reboot and after a second or so, it will reconnect as CIRCUITPY.
 
 3. **Install Pico Wifi Duck Files on the Pico:**
-   - Download the release file from [here](https://github.com/Master629/PicoW-Ducky-Server/releases/download/V1.0-Pico-Ducky-Server/PicoW-Server.zip).
+   - Download the release file from [here](https://github.com/Master629/PicoW-Ducky-Server/releases/download/V1.0-Pico-Ducky-Server/PicoW-Server_.zip).
    - Unzip it.
    - While plugging in your Pico, copy and paste the files that you unzip onto the "CIRCUITPY" drive. (just copy all files in the zip file to the "CIRCUITPY" drive and replace any files if your computer asks you)
   
