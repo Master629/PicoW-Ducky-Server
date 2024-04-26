@@ -39,6 +39,6 @@ A Wireless keystroke injector.
 3. **Install Pico Wifi Duck Files on the Pico:**
    - Download the release file from [here](https://github.com/majdsassi/Pico-WIFI-Duck/releases/download/Release_Stable/Release.zip).
    - Unzip it.
-   - While plugging in your Pico, copy and paste the files that you unzip onto the "CIRCUITPY" drive. (just copy all files in the zip file and replace any files if your computer asks you)
+   - While plugging in your Pico, copy and paste the files that you unzip onto the "CIRCUITPY" drive. (just copy all files in the zip file to the "CIRCUITPY" drive and replace any files if your computer asks you)
 
 
