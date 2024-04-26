@@ -36,3 +36,9 @@ A Wireless keystroke injector.
    - Plug the device into a USB port while holding the boot button. It will show up as a removable media device named RPI-RP2.
    - Copy the downloaded (".uf2") file to the root of the Pico (RPI-RP2). The device will reboot and after a second or so, it will reconnect as CIRCUITPY.
 
+3. **Install Pico Wifi Duck Files on the Pico:**
+   - Download the release file from [here](https://github.com/majdsassi/Pico-WIFI-Duck/releases/download/Release_Stable/Release.zip).
+   - Unzip it.
+   - While plugging in your Pico, copy and paste the files that you unzip onto the "CIRCUITPY" drive. (just copy all files in the zip file and replace any files if your computer asks you)
+
+
