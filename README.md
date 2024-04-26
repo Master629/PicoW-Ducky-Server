@@ -39,5 +39,17 @@ A Wireless keystroke injector.
    - Download the release file from [here](https://github.com/Master629/PicoW-Ducky-Server/releases/download/V1.0-Pico-Ducky-Server/PicoW-Server.zip).
    - Unzip it.
    - While plugging in your Pico, copy and paste the files that you unzip onto the "CIRCUITPY" drive. (just copy all files in the zip file to the "CIRCUITPY" drive and replace any files if your computer asks you)
+  
+
+
+### Usage
+
+1. Connect your Raspberry Pi Pico W to the target system using a good-quality USB cable.
+
+2. Connect to the WiFi network created by the Pico; it's called **"Pico W Ducky"**, and its password is **"gethacked"**.
+
+3. Open your browser and navigate to [192.168.4.1](http://192.168.4.1).
+
+4. Write your script in the textarea and click on "RUN" .
 
 
