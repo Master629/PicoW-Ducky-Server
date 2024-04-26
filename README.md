@@ -10,7 +10,7 @@ A Wireless keystroke injector.
 - Remote scripting and automation capabilities.
 - Requires only one Microcontroller.
 - Based on the [pico-ducky](https://github.com/dbisu/pico-ducky) project.
-- Cost-effective, approximately $6.
+- Cost-effective, approximately $6-15.
 
 ## Getting Started
 
