@@ -50,7 +50,7 @@ A Wireless keystroke injector.
 
 1. Connect your Raspberry Pi Pico W to the target system using a good-quality USB cable.
 
-2. Connect to the WiFi network created by the Pico; it's called **"Pico W Ducky"**, and its password is **"gethacked"**.
+2. Connect to the WiFi network created by the Pico; it's called **"PicoDuckySer"**, and its password is **"gethacked"**.
 
 3. Open your browser and navigate to [192.168.4.1](http://192.168.4.1).
 
