@@ -4,10 +4,6 @@ A Wireless keystroke injector.
 ![pico image](https://github.com/Master629/PicoW-Ducky-Server/assets/125476463/0efbedc9-9807-42a5-b591-0ce250ef1e07)
 
 
-# ATTENTION!!!
-**THIS PROJECT IS POSTPONED THE RELEASE FILES ARE NOT CORRECT DO NOT FOLLOW THIS TUTORIAL!!!**
-
-
 ## Features
 
 - Emulates USB Rubber Ducky functionality over Wi-Fi.
